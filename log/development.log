@@ -6658,3 +6658,3000 @@ Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 10:54:16 -0800
 
 
 Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 10:54:17 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:02:05 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 424ms (Views: 423.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:02:06 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:02:06 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:02:06 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:02:06 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:02:06 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:02:06 -0800
+
+
+Started GET "/assets/bundle.self-83ce482a0127eeca79cb60ef04d3c3bcf1044d3b22a7024619aff0ea4c2717a6.js?body=1" for ::1 at 2016-11-28 11:02:06 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:02:06 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:02:06 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:02:06 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:02:08 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 420ms (Views: 420.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:02:08 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:02:08 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:02:08 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:02:08 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:02:09 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:02:09 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:02:09 -0800
+
+
+Started GET "/assets/bundle.self-8a6e6b0a7f9dcd8eebd4181618839e4ff456435f9ad04e11d62874428fda817f.js?body=1" for ::1 at 2016-11-28 11:02:09 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:02:09 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:02:09 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:02:22 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 12ms (Views: 12.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:02:22 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:02:22 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:02:22 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:02:22 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:02:22 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:02:22 -0800
+
+
+Started GET "/assets/bundle.self-8a6e6b0a7f9dcd8eebd4181618839e4ff456435f9ad04e11d62874428fda817f.js?body=1" for ::1 at 2016-11-28 11:02:22 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:02:22 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:02:22 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:02:23 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:02:23 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.3ms)
+Completed 200 OK in 17ms (Views: 17.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:02:24 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:02:24 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:02:24 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:02:24 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:02:24 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:02:24 -0800
+
+
+Started GET "/assets/bundle.self-8a6e6b0a7f9dcd8eebd4181618839e4ff456435f9ad04e11d62874428fda817f.js?body=1" for ::1 at 2016-11-28 11:02:24 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:02:24 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:02:24 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:02:24 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:02:31 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 12ms (Views: 11.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:02:31 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:02:31 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:02:31 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:02:31 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:02:31 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:02:31 -0800
+
+
+Started GET "/assets/bundle.self-8a6e6b0a7f9dcd8eebd4181618839e4ff456435f9ad04e11d62874428fda817f.js?body=1" for ::1 at 2016-11-28 11:02:31 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:02:31 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:02:31 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:02:31 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:02:34 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 33ms (Views: 33.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:02:34 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:02:34 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:02:34 -0800
+
+
+Started GET "/assets/bundle.self-83ce482a0127eeca79cb60ef04d3c3bcf1044d3b22a7024619aff0ea4c2717a6.js?body=1" for ::1 at 2016-11-28 11:02:34 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:02:34 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:02:34 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:02:34 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:02:34 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:02:34 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:02:35 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:02:35 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 26ms (Views: 26.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:02:35 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:02:35 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:02:35 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:02:35 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:02:35 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:02:35 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:02:35 -0800
+
+
+Started GET "/assets/bundle.self-83ce482a0127eeca79cb60ef04d3c3bcf1044d3b22a7024619aff0ea4c2717a6.js?body=1" for ::1 at 2016-11-28 11:02:35 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:02:35 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:02:36 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:03:28 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.1ms)
+Completed 200 OK in 32ms (Views: 31.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:03:28 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:03:28 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:03:28 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:03:28 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:03:28 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:03:28 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:03:28 -0800
+
+
+Started GET "/assets/bundle.self-83ce482a0127eeca79cb60ef04d3c3bcf1044d3b22a7024619aff0ea4c2717a6.js?body=1" for ::1 at 2016-11-28 11:03:28 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:03:28 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:03:29 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:03:29 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.2ms)
+Completed 200 OK in 17ms (Views: 17.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:03:30 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:03:30 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:03:30 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:03:30 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:03:30 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:03:30 -0800
+
+
+Started GET "/assets/bundle.self-83ce482a0127eeca79cb60ef04d3c3bcf1044d3b22a7024619aff0ea4c2717a6.js?body=1" for ::1 at 2016-11-28 11:03:30 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:03:30 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:03:30 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:03:30 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:03:31 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 461ms (Views: 460.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:03:31 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:03:31 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:03:31 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:03:31 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:03:31 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:03:31 -0800
+
+
+Started GET "/assets/bundle.self-3bbff11b25094f42e3f74a3b949c9491b98e2a19090938469f55fb4fb8b6a046.js?body=1" for ::1 at 2016-11-28 11:03:31 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:03:31 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:03:31 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:03:32 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:03:32 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 14ms (Views: 14.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:03:32 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:03:32 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:03:32 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:03:32 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:03:32 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:03:32 -0800
+
+
+Started GET "/assets/bundle.self-3bbff11b25094f42e3f74a3b949c9491b98e2a19090938469f55fb4fb8b6a046.js?body=1" for ::1 at 2016-11-28 11:03:32 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:03:32 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:03:32 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:03:33 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:04:52 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 21ms (Views: 21.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:04:52 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:04:52 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:04:52 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:04:52 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:04:52 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:04:52 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:04:52 -0800
+
+
+Started GET "/assets/bundle.self-3bbff11b25094f42e3f74a3b949c9491b98e2a19090938469f55fb4fb8b6a046.js?body=1" for ::1 at 2016-11-28 11:04:52 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:04:52 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:04:52 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:05:58 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 13ms (Views: 13.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:05:58 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:05:58 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:05:58 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:05:58 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:05:58 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:05:58 -0800
+
+
+Started GET "/assets/bundle.self-3bbff11b25094f42e3f74a3b949c9491b98e2a19090938469f55fb4fb8b6a046.js?body=1" for ::1 at 2016-11-28 11:05:58 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:05:58 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:05:58 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:05:59 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:06:01 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 12ms (Views: 11.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:06:01 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:06:01 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:06:01 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:06:01 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:06:01 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:06:01 -0800
+
+
+Started GET "/assets/bundle.self-3bbff11b25094f42e3f74a3b949c9491b98e2a19090938469f55fb4fb8b6a046.js?body=1" for ::1 at 2016-11-28 11:06:01 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:06:01 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:06:01 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:06:02 -0800
+
+
+Started GET "/api/pokemon" for ::1 at 2016-11-28 11:06:04 -0800
+Processing by Api::PokemonController#index as JSON
+  [1m[36mPokemon Load (1.4ms)[0m  [1mSELECT "pokemons".* FROM "pokemons"[0m
+  Rendered api/pokemon/index.json.jbuilder (8.6ms)
+Completed 200 OK in 1016ms (Views: 13.3ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/api/pokemon" for ::1 at 2016-11-28 11:06:26 -0800
+Processing by Api::PokemonController#index as JSON
+  [1m[35mPokemon Load (1.0ms)[0m  SELECT "pokemons".* FROM "pokemons"
+  Rendered api/pokemon/index.json.jbuilder (7.5ms)
+Completed 200 OK in 1017ms (Views: 10.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-28 11:06:34 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 15ms (Views: 14.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:06:34 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:06:34 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:06:34 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:06:34 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:06:34 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:06:34 -0800
+
+
+Started GET "/assets/bundle.self-3bbff11b25094f42e3f74a3b949c9491b98e2a19090938469f55fb4fb8b6a046.js?body=1" for ::1 at 2016-11-28 11:06:34 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:06:34 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:06:34 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:06:35 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:06:36 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 15ms (Views: 14.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:06:36 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:06:36 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:06:36 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:06:36 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:06:36 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:06:36 -0800
+
+
+Started GET "/assets/bundle.self-3bbff11b25094f42e3f74a3b949c9491b98e2a19090938469f55fb4fb8b6a046.js?body=1" for ::1 at 2016-11-28 11:06:36 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:06:36 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:06:36 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:06:37 -0800
+
+
+Started GET "/api/pokemon" for ::1 at 2016-11-28 11:06:42 -0800
+Processing by Api::PokemonController#index as JSON
+  [1m[36mPokemon Load (2.4ms)[0m  [1mSELECT "pokemons".* FROM "pokemons"[0m
+  Rendered api/pokemon/index.json.jbuilder (12.3ms)
+Completed 200 OK in 1019ms (Views: 14.0ms | ActiveRecord: 2.4ms)
+
+
+Started GET "/" for ::1 at 2016-11-28 11:07:03 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 12ms (Views: 11.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:07:03 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:07:03 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:07:03 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:07:03 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:07:03 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:07:03 -0800
+
+
+Started GET "/assets/bundle.self-3bbff11b25094f42e3f74a3b949c9491b98e2a19090938469f55fb4fb8b6a046.js?body=1" for ::1 at 2016-11-28 11:07:03 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:07:03 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:07:03 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:07:03 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:07:58 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.1ms)
+Completed 200 OK in 14ms (Views: 13.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:07:59 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:07:59 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:07:59 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:07:59 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:07:59 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:07:59 -0800
+
+
+Started GET "/assets/bundle.self-3bbff11b25094f42e3f74a3b949c9491b98e2a19090938469f55fb4fb8b6a046.js?body=1" for ::1 at 2016-11-28 11:07:59 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:07:59 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:07:59 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:07:59 -0800
+
+
+Started GET "/api/pokemon" for ::1 at 2016-11-28 11:08:02 -0800
+Processing by Api::PokemonController#index as JSON
+  [1m[35mPokemon Load (1.0ms)[0m  SELECT "pokemons".* FROM "pokemons"
+  Rendered api/pokemon/index.json.jbuilder (7.8ms)
+Completed 200 OK in 1018ms (Views: 10.9ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-28 11:08:14 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 13ms (Views: 12.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:08:14 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:08:14 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:08:14 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:08:14 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:08:14 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:08:14 -0800
+
+
+Started GET "/assets/bundle.self-3bbff11b25094f42e3f74a3b949c9491b98e2a19090938469f55fb4fb8b6a046.js?body=1" for ::1 at 2016-11-28 11:08:14 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:08:14 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:08:14 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:08:14 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:08:54 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 20ms (Views: 19.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:08:54 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:08:54 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:08:54 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:08:54 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:08:54 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:08:54 -0800
+
+
+Started GET "/assets/bundle.self-3bbff11b25094f42e3f74a3b949c9491b98e2a19090938469f55fb4fb8b6a046.js?body=1" for ::1 at 2016-11-28 11:08:54 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:08:54 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:08:54 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:08:54 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:09:13 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 367ms (Views: 366.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:09:13 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:09:13 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:09:13 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:09:13 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:09:13 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:09:13 -0800
+
+
+Started GET "/assets/bundle.self-9fe9ca40c6fad59edd4fb9ea9d6fa2a89df50a71d1be03c86f2314a53aebdd5c.js?body=1" for ::1 at 2016-11-28 11:09:13 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:09:13 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:09:13 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:09:14 -0800
+
+
+Started GET "/api/pokemon" for ::1 at 2016-11-28 11:09:26 -0800
+Processing by Api::PokemonController#index as JSON
+  [1m[36mPokemon Load (0.8ms)[0m  [1mSELECT "pokemons".* FROM "pokemons"[0m
+  Rendered api/pokemon/index.json.jbuilder (7.1ms)
+Completed 200 OK in 1013ms (Views: 10.6ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/" for ::1 at 2016-11-28 11:10:48 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 401ms (Views: 400.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:10:49 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:10:49 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:10:49 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:10:49 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:10:49 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:10:49 -0800
+
+
+Started GET "/assets/bundle.self-da9d758d335c0df5ec61a2a22e52c15b7508e8526e60ed8c1b0ec10fb5c6f2f2.js?body=1" for ::1 at 2016-11-28 11:10:49 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:10:49 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:10:49 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:10:49 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:10:50 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 14ms (Views: 13.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:10:50 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:10:50 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:10:50 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:10:50 -0800
+
+
+Started GET "/assets/bundle.self-da9d758d335c0df5ec61a2a22e52c15b7508e8526e60ed8c1b0ec10fb5c6f2f2.js?body=1" for ::1 at 2016-11-28 11:10:50 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:10:50 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:10:50 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:10:50 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:10:50 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:10:50 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:10:56 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 21ms (Views: 20.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:10:56 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:10:56 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:10:56 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:10:56 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:10:56 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:10:56 -0800
+
+
+Started GET "/assets/bundle.self-da9d758d335c0df5ec61a2a22e52c15b7508e8526e60ed8c1b0ec10fb5c6f2f2.js?body=1" for ::1 at 2016-11-28 11:10:56 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:10:56 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:10:56 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:10:57 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:10:58 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 11ms (Views: 10.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:10:58 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:10:58 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:10:58 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:10:58 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:10:58 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:10:58 -0800
+
+
+Started GET "/assets/bundle.self-9fe9ca40c6fad59edd4fb9ea9d6fa2a89df50a71d1be03c86f2314a53aebdd5c.js?body=1" for ::1 at 2016-11-28 11:10:58 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:10:58 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:10:58 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:10:58 -0800
+
+
+Started GET "/api/pokemon" for ::1 at 2016-11-28 11:11:02 -0800
+Processing by Api::PokemonController#index as JSON
+  [1m[35mPokemon Load (0.9ms)[0m  SELECT "pokemons".* FROM "pokemons"
+  Rendered api/pokemon/index.json.jbuilder (8.7ms)
+Completed 200 OK in 1021ms (Views: 14.7ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/api/pokemon" for ::1 at 2016-11-28 11:11:12 -0800
+Processing by Api::PokemonController#index as JSON
+  [1m[36mPokemon Load (1.0ms)[0m  [1mSELECT "pokemons".* FROM "pokemons"[0m
+  Rendered api/pokemon/index.json.jbuilder (12.6ms)
+Completed 200 OK in 1019ms (Views: 17.2ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-28 11:12:34 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 146ms (Views: 146.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:12:34 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:12:34 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:12:34 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:12:34 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:12:34 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:12:34 -0800
+
+
+Started GET "/assets/bundle.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.js?body=1" for ::1 at 2016-11-28 11:12:34 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:12:35 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:12:35 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:12:35 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:12:36 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.1ms)
+Completed 200 OK in 222ms (Views: 221.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:12:36 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:12:36 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:12:36 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:12:36 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:12:36 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:12:36 -0800
+
+
+Started GET "/assets/bundle.self-ce03b47f23f337f34fcc2d7d712fba649763eebdc841ec0f01655a6bd1a071a5.js?body=1" for ::1 at 2016-11-28 11:12:36 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:12:36 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:12:36 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:12:36 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:16:01 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 408ms (Views: 408.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:16:01 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:16:01 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:16:01 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:16:01 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:16:01 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:16:01 -0800
+
+
+Started GET "/assets/bundle.self-853082b41954e16baa8c5f11df3f074b2f57b53f6f6b8d984c82a6eec28a8375.js?body=1" for ::1 at 2016-11-28 11:16:01 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:16:01 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:16:01 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:16:02 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:16:10 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 17ms (Views: 16.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:16:10 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:16:10 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:16:10 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:16:11 -0800
+
+
+Started GET "/assets/bundle.self-853082b41954e16baa8c5f11df3f074b2f57b53f6f6b8d984c82a6eec28a8375.js?body=1" for ::1 at 2016-11-28 11:16:11 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:16:11 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:16:11 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:16:11 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:16:11 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:16:11 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:16:13 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 402ms (Views: 401.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:16:13 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:16:13 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:16:13 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:16:13 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:16:13 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:16:13 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:16:13 -0800
+
+
+Started GET "/assets/bundle.self-ca1cea2acc9030b6f28a26c440d60fb315fbb3735e0a63b6a4dfb011ccfba540.js?body=1" for ::1 at 2016-11-28 11:16:13 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:16:13 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:16:14 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:16:15 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 15ms (Views: 15.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:16:15 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:16:15 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:16:15 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:16:15 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:16:15 -0800
+
+
+Started GET "/assets/bundle.self-ca1cea2acc9030b6f28a26c440d60fb315fbb3735e0a63b6a4dfb011ccfba540.js?body=1" for ::1 at 2016-11-28 11:16:15 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:16:15 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:16:15 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:16:15 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:16:15 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:16:16 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 13ms (Views: 12.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:16:16 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:16:16 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:16:16 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:16:16 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:16:16 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:16:16 -0800
+
+
+Started GET "/assets/bundle.self-ca1cea2acc9030b6f28a26c440d60fb315fbb3735e0a63b6a4dfb011ccfba540.js?body=1" for ::1 at 2016-11-28 11:16:16 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:16:16 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:16:16 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:16:17 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:16:17 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 14ms (Views: 14.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:16:17 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:16:17 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:16:17 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:16:17 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:16:17 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:16:18 -0800
+
+
+Started GET "/assets/bundle.self-ca1cea2acc9030b6f28a26c440d60fb315fbb3735e0a63b6a4dfb011ccfba540.js?body=1" for ::1 at 2016-11-28 11:16:18 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:16:18 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:16:18 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:16:18 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:16:19 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 18ms (Views: 17.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:16:19 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:16:19 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:16:19 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:16:19 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:16:19 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:16:19 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:16:19 -0800
+
+
+Started GET "/assets/bundle.self-ca1cea2acc9030b6f28a26c440d60fb315fbb3735e0a63b6a4dfb011ccfba540.js?body=1" for ::1 at 2016-11-28 11:16:19 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:16:19 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:16:19 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:16:29 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 16ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:16:30 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:16:30 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:16:30 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:16:30 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:16:30 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:16:30 -0800
+
+
+Started GET "/assets/bundle.self-ca1cea2acc9030b6f28a26c440d60fb315fbb3735e0a63b6a4dfb011ccfba540.js?body=1" for ::1 at 2016-11-28 11:16:30 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:16:30 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:16:30 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:16:30 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:16:31 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 14ms (Views: 13.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:16:31 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:16:31 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:16:31 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:16:31 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:16:31 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:16:31 -0800
+
+
+Started GET "/assets/bundle.self-ca1cea2acc9030b6f28a26c440d60fb315fbb3735e0a63b6a4dfb011ccfba540.js?body=1" for ::1 at 2016-11-28 11:16:31 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:16:31 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:16:31 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:16:31 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:16:32 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 386ms (Views: 385.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:16:33 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:16:33 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:16:33 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:16:33 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:16:33 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:16:33 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:16:33 -0800
+
+
+Started GET "/assets/bundle.self-526ddd0e5a0d7a40e8b94d569bebd7c17f99c626623b04e5f71eb333bc1fc702.js?body=1" for ::1 at 2016-11-28 11:16:33 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:16:33 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:16:33 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:17:25 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.1ms)
+Completed 200 OK in 24ms (Views: 23.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:17:25 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:17:25 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:17:25 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:17:25 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:17:25 -0800
+
+
+Started GET "/assets/bundle.self-526ddd0e5a0d7a40e8b94d569bebd7c17f99c626623b04e5f71eb333bc1fc702.js?body=1" for ::1 at 2016-11-28 11:17:25 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:17:25 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:17:25 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:17:25 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:17:26 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:19:36 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.1ms)
+Completed 200 OK in 403ms (Views: 403.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:19:37 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:19:37 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:19:37 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:19:37 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:19:37 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:19:37 -0800
+
+
+Started GET "/assets/bundle.self-2e70b1ddefd3b6d7df769de57c277bcd5be10739a088103af3d2f4919f1a0140.js?body=1" for ::1 at 2016-11-28 11:19:37 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:19:37 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:19:37 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:19:37 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:19:38 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.1ms)
+Completed 200 OK in 428ms (Views: 427.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:19:38 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:19:38 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:19:38 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:19:38 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:19:38 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:19:38 -0800
+
+
+Started GET "/assets/bundle.self-826f074c16f7573523f38237784a597723be5023114579b2b953774f5dc311d8.js?body=1" for ::1 at 2016-11-28 11:19:38 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:19:38 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:19:38 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:19:39 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:19:52 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 19ms (Views: 19.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:19:53 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:19:53 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:19:53 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:19:53 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:19:53 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:19:53 -0800
+
+
+Started GET "/assets/bundle.self-826f074c16f7573523f38237784a597723be5023114579b2b953774f5dc311d8.js?body=1" for ::1 at 2016-11-28 11:19:53 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:19:53 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:19:53 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:19:53 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:19:56 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 404ms (Views: 403.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:19:56 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:19:56 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:19:56 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:19:56 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:19:56 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:19:56 -0800
+
+
+Started GET "/assets/bundle.self-fe1679c13dece0ee4fe06118a8037045b9370f6173a0dab509a23123066c54a1.js?body=1" for ::1 at 2016-11-28 11:19:56 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:19:56 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:19:56 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:19:56 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:19:57 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 22ms (Views: 21.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:19:57 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:19:57 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:19:57 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:19:57 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:19:57 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:19:57 -0800
+
+
+Started GET "/assets/bundle.self-fe1679c13dece0ee4fe06118a8037045b9370f6173a0dab509a23123066c54a1.js?body=1" for ::1 at 2016-11-28 11:19:57 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:19:57 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:19:57 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:19:57 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:23:26 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 29ms (Views: 28.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:23:26 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:23:26 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:23:26 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:23:26 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:23:26 -0800
+
+
+Started GET "/assets/bundle.self-fe1679c13dece0ee4fe06118a8037045b9370f6173a0dab509a23123066c54a1.js?body=1" for ::1 at 2016-11-28 11:23:26 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:23:26 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:23:26 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:23:26 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:23:27 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:25:11 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 381ms (Views: 380.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:25:11 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:25:11 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:25:11 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:25:11 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:25:11 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:25:11 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:25:11 -0800
+
+
+Started GET "/assets/bundle.self-87b4e7620284dc265c35d3bc8b82673e4778f7959d8c45a4dd4e9532b1e81672.js?body=1" for ::1 at 2016-11-28 11:25:11 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:25:11 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:25:11 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:25:43 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 12ms (Views: 11.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:25:43 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:25:43 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:25:43 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:25:43 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:25:43 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:25:43 -0800
+
+
+Started GET "/assets/bundle.self-87b4e7620284dc265c35d3bc8b82673e4778f7959d8c45a4dd4e9532b1e81672.js?body=1" for ::1 at 2016-11-28 11:25:43 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:25:43 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:25:43 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:25:44 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:25:44 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.1ms)
+Completed 200 OK in 20ms (Views: 20.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:25:45 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:25:45 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:25:45 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:25:45 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:25:45 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:25:45 -0800
+
+
+Started GET "/assets/bundle.self-87b4e7620284dc265c35d3bc8b82673e4778f7959d8c45a4dd4e9532b1e81672.js?body=1" for ::1 at 2016-11-28 11:25:45 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:25:45 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:25:45 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:25:45 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:25:48 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 13ms (Views: 12.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:25:48 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:25:48 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:25:48 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:25:48 -0800
+
+
+Started GET "/assets/bundle.self-87b4e7620284dc265c35d3bc8b82673e4778f7959d8c45a4dd4e9532b1e81672.js?body=1" for ::1 at 2016-11-28 11:25:48 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:25:48 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:25:48 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:25:48 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:25:48 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:25:49 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:26:04 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.1ms)
+Completed 200 OK in 15ms (Views: 15.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:26:04 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:26:04 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:26:04 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:26:04 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:26:04 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:26:04 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:26:04 -0800
+
+
+Started GET "/assets/bundle.self-87b4e7620284dc265c35d3bc8b82673e4778f7959d8c45a4dd4e9532b1e81672.js?body=1" for ::1 at 2016-11-28 11:26:04 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:26:04 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:26:04 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:27:02 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 15ms (Views: 15.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:02 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:27:02 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:27:02 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:27:02 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:02 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:27:02 -0800
+
+
+Started GET "/assets/bundle.self-87b4e7620284dc265c35d3bc8b82673e4778f7959d8c45a4dd4e9532b1e81672.js?body=1" for ::1 at 2016-11-28 11:27:02 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:27:02 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:27:02 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:27:02 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:27:13 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 21ms (Views: 20.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:27:13 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:13 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:13 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:27:13 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:27:13 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:27:13 -0800
+
+
+Started GET "/assets/bundle.self-87b4e7620284dc265c35d3bc8b82673e4778f7959d8c45a4dd4e9532b1e81672.js?body=1" for ::1 at 2016-11-28 11:27:13 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:27:13 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:27:13 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:27:13 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:27:22 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 19ms (Views: 19.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:22 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:27:22 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:27:22 -0800
+
+
+Started GET "/assets/bundle.self-87b4e7620284dc265c35d3bc8b82673e4778f7959d8c45a4dd4e9532b1e81672.js?body=1" for ::1 at 2016-11-28 11:27:22 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:27:22 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:27:22 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:22 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:27:22 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:27:22 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:27:22 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:27:26 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 34ms (Views: 33.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:26 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:26 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:27:26 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:27:26 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:27:26 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:27:26 -0800
+
+
+Started GET "/assets/bundle.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.js?body=1" for ::1 at 2016-11-28 11:27:27 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:27:27 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:27:27 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:27:28 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 14ms (Views: 13.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:28 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:27:28 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:28 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:27:28 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:27:28 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:27:28 -0800
+
+
+Started GET "/assets/bundle.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.js?body=1" for ::1 at 2016-11-28 11:27:28 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:27:28 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:27:29 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:27:40 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 13ms (Views: 12.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:27:40 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:40 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:27:40 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:40 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:27:40 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:27:40 -0800
+
+
+Started GET "/assets/bundle.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.js?body=1" for ::1 at 2016-11-28 11:27:40 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:27:40 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:27:40 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:27:41 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 12ms (Views: 11.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:27:41 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:41 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:41 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:27:41 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:27:41 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:27:41 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:27:42 -0800
+
+
+Started GET "/assets/bundle.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.js?body=1" for ::1 at 2016-11-28 11:27:42 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:27:42 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:27:42 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 10ms (Views: 10.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:27:42 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:42 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:27:42 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:27:42 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:27:42 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:42 -0800
+
+
+Started GET "/assets/bundle.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.js?body=1" for ::1 at 2016-11-28 11:27:42 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:27:43 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:27:43 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:27:43 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 11ms (Views: 10.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:27:43 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:27:43 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:43 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:27:43 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:27:43 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:27:43 -0800
+
+
+Started GET "/assets/bundle.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.js?body=1" for ::1 at 2016-11-28 11:27:43 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:43 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:27:43 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:27:44 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 11ms (Views: 10.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:44 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:44 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:27:44 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:27:44 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:27:44 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:27:44 -0800
+
+
+Started GET "/assets/bundle.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.js?body=1" for ::1 at 2016-11-28 11:27:44 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:27:44 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:27:44 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:27:46 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 13ms (Views: 13.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:27:46 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:27:46 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:46 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:46 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:27:46 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:27:46 -0800
+
+
+Started GET "/assets/bundle.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.js?body=1" for ::1 at 2016-11-28 11:27:47 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:27:47 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:27:47 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:27:48 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.1ms)
+Completed 200 OK in 15ms (Views: 15.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:48 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:27:48 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:27:48 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:48 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:27:48 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:27:48 -0800
+
+
+Started GET "/assets/bundle.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.js?body=1" for ::1 at 2016-11-28 11:27:48 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:27:48 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:27:48 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:27:49 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 17ms (Views: 16.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:49 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:27:50 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:27:50 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:50 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:27:50 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:27:50 -0800
+
+
+Started GET "/assets/bundle.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.js?body=1" for ::1 at 2016-11-28 11:27:50 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:27:50 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:27:50 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:27:54 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 15ms (Views: 14.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:54 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:54 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:27:54 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:27:54 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:27:54 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:27:54 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:27:54 -0800
+
+
+Started GET "/assets/bundle.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.js?body=1" for ::1 at 2016-11-28 11:27:54 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:27:54 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:27:55 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 17ms (Views: 17.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:55 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:27:55 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:27:55 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:27:55 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:27:55 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:55 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:27:55 -0800
+
+
+Started GET "/assets/bundle.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.js?body=1" for ::1 at 2016-11-28 11:27:55 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:27:55 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:27:55 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.1ms)
+Completed 200 OK in 13ms (Views: 12.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:55 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:55 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:27:55 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:27:55 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:27:56 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:27:56 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:27:56 -0800
+
+
+Started GET "/assets/bundle.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.js?body=1" for ::1 at 2016-11-28 11:27:56 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:27:56 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:27:57 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 398ms (Views: 398.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:27:57 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:57 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:27:57 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:57 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:27:57 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:27:57 -0800
+
+
+Started GET "/assets/bundle.self-688e5373bac50a3d14ebb834ea5704b30f76325789fcfadaff35b4e66020a21c.js?body=1" for ::1 at 2016-11-28 11:27:57 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:27:57 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:27:57 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:27:58 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:27:58 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.1ms)
+Completed 200 OK in 15ms (Views: 15.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:27:58 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:27:58 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:58 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:27:58 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:27:58 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:27:58 -0800
+
+
+Started GET "/assets/bundle.self-688e5373bac50a3d14ebb834ea5704b30f76325789fcfadaff35b4e66020a21c.js?body=1" for ::1 at 2016-11-28 11:27:58 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:27:58 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:27:58 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:27:59 -0800
+
+
+Started GET "/api/pokemon" for ::1 at 2016-11-28 11:28:40 -0800
+Processing by Api::PokemonController#index as JSON
+  [1m[35mPokemon Load (1.1ms)[0m  SELECT "pokemons".* FROM "pokemons"
+  Rendered api/pokemon/index.json.jbuilder (8.8ms)
+Completed 200 OK in 1016ms (Views: 12.4ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/" for ::1 at 2016-11-28 11:29:51 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.1ms)
+Completed 200 OK in 26ms (Views: 25.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:29:51 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:29:51 -0800
+
+
+Started GET "/assets/bundle.self-688e5373bac50a3d14ebb834ea5704b30f76325789fcfadaff35b4e66020a21c.js?body=1" for ::1 at 2016-11-28 11:29:51 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:29:51 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:29:51 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:29:51 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:29:51 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:29:51 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:29:51 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:29:52 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:30:52 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 468ms (Views: 468.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:30:53 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:30:53 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:30:53 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:30:53 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:30:53 -0800
+
+
+Started GET "/assets/bundle.self-301ff439d905d2675d6d6cb3330d742e20399b83c9c81bdc813ec57a67c792a2.js?body=1" for ::1 at 2016-11-28 11:30:53 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:30:53 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:30:53 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:30:53 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:30:53 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:30:54 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 436ms (Views: 435.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:30:55 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:30:55 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:30:55 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:30:55 -0800
+
+
+Started GET "/assets/bundle.self-aac33ba4346d782bd2e59ba4699f7156b911912d39eeda8cd9ce35e4fa4e0461.js?body=1" for ::1 at 2016-11-28 11:30:55 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:30:55 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:30:55 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:30:55 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:30:55 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:30:55 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:30:57 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 13ms (Views: 12.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:30:57 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:30:57 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:30:57 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:30:57 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:30:57 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:30:57 -0800
+
+
+Started GET "/assets/bundle.self-aac33ba4346d782bd2e59ba4699f7156b911912d39eeda8cd9ce35e4fa4e0461.js?body=1" for ::1 at 2016-11-28 11:30:57 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:30:57 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:30:57 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:30:57 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:32:11 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 14ms (Views: 13.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:32:11 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:32:11 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:32:11 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:32:11 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:32:11 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:32:11 -0800
+
+
+Started GET "/assets/bundle.self-aac33ba4346d782bd2e59ba4699f7156b911912d39eeda8cd9ce35e4fa4e0461.js?body=1" for ::1 at 2016-11-28 11:32:11 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:32:11 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:32:11 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:32:11 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:32:17 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 12ms (Views: 11.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:32:17 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:32:17 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:32:17 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:32:17 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:32:17 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:32:17 -0800
+
+
+Started GET "/assets/bundle.self-aac33ba4346d782bd2e59ba4699f7156b911912d39eeda8cd9ce35e4fa4e0461.js?body=1" for ::1 at 2016-11-28 11:32:18 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:32:18 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:32:18 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:32:18 -0800
+
+
+Started GET "/api/pokemon" for ::1 at 2016-11-28 11:32:38 -0800
+Processing by Api::PokemonController#index as JSON
+  [1m[36mPokemon Load (1.0ms)[0m  [1mSELECT "pokemons".* FROM "pokemons"[0m
+  Rendered api/pokemon/index.json.jbuilder (7.6ms)
+Completed 200 OK in 1016ms (Views: 9.6ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2016-11-28 11:34:12 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 44ms (Views: 43.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:34:12 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:34:12 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:34:13 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:34:13 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:34:13 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:34:13 -0800
+
+
+Started GET "/assets/bundle.self-87b4e7620284dc265c35d3bc8b82673e4778f7959d8c45a4dd4e9532b1e81672.js?body=1" for ::1 at 2016-11-28 11:34:13 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:34:13 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:34:13 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:34:13 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:34:14 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.1ms)
+Completed 200 OK in 398ms (Views: 397.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:34:15 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:34:15 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:34:15 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:34:15 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:34:15 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:34:15 -0800
+
+
+Started GET "/assets/bundle.self-eb2f6f849d327507c8141f530a057ccb75b5f772450b380c4433ed09627bcee6.js?body=1" for ::1 at 2016-11-28 11:34:15 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:34:15 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:34:15 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:34:15 -0800
+
+
+Started GET "/api/pokemon" for ::1 at 2016-11-28 11:34:38 -0800
+Processing by Api::PokemonController#index as JSON
+  [1m[35mPokemon Load (0.9ms)[0m  SELECT "pokemons".* FROM "pokemons"
+  Rendered api/pokemon/index.json.jbuilder (10.7ms)
+Completed 200 OK in 1022ms (Views: 15.3ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/" for ::1 at 2016-11-28 11:35:04 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 19ms (Views: 18.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:35:04 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:35:04 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:35:04 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:35:04 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:35:04 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:35:04 -0800
+
+
+Started GET "/assets/bundle.self-eb2f6f849d327507c8141f530a057ccb75b5f772450b380c4433ed09627bcee6.js?body=1" for ::1 at 2016-11-28 11:35:04 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:35:04 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:35:04 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:35:05 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:35:05 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.1ms)
+Completed 200 OK in 14ms (Views: 14.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:35:05 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:35:05 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:35:05 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:35:05 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:35:05 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:35:05 -0800
+
+
+Started GET "/assets/bundle.self-eb2f6f849d327507c8141f530a057ccb75b5f772450b380c4433ed09627bcee6.js?body=1" for ::1 at 2016-11-28 11:35:05 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:35:05 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:35:05 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:35:06 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:35:07 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 13ms (Views: 13.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:35:07 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:35:07 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:35:07 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:35:07 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:35:07 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:35:07 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:35:07 -0800
+
+
+Started GET "/assets/bundle.self-eb2f6f849d327507c8141f530a057ccb75b5f772450b380c4433ed09627bcee6.js?body=1" for ::1 at 2016-11-28 11:35:07 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:35:07 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:35:07 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:35:08 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 13ms (Views: 12.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:35:08 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:35:08 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:35:08 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:35:08 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:35:08 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:35:08 -0800
+
+
+Started GET "/assets/bundle.self-eb2f6f849d327507c8141f530a057ccb75b5f772450b380c4433ed09627bcee6.js?body=1" for ::1 at 2016-11-28 11:35:08 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:35:08 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:35:08 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:35:08 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:35:16 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 13ms (Views: 12.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:35:16 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:35:16 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:35:16 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:35:16 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:35:16 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:35:16 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:35:16 -0800
+
+
+Started GET "/assets/bundle.self-eb2f6f849d327507c8141f530a057ccb75b5f772450b380c4433ed09627bcee6.js?body=1" for ::1 at 2016-11-28 11:35:16 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:35:16 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:35:17 -0800
+
+
+Started GET "/api/pokemon" for ::1 at 2016-11-28 11:35:22 -0800
+Processing by Api::PokemonController#index as JSON
+  [1m[36mPokemon Load (0.8ms)[0m  [1mSELECT "pokemons".* FROM "pokemons"[0m
+  Rendered api/pokemon/index.json.jbuilder (8.7ms)
+Completed 200 OK in 1015ms (Views: 11.1ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/" for ::1 at 2016-11-28 11:35:28 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 11ms (Views: 10.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:35:28 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:35:28 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:35:28 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:35:28 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:35:28 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:35:28 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:35:28 -0800
+
+
+Started GET "/assets/bundle.self-eb2f6f849d327507c8141f530a057ccb75b5f772450b380c4433ed09627bcee6.js?body=1" for ::1 at 2016-11-28 11:35:28 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:35:28 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:35:29 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 11:35:38 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 13ms (Views: 12.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 11:35:38 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 11:35:38 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 11:35:38 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:35:38 -0800
+
+
+Started GET "/assets/application.self-c1ed1dfc0981c4bdb129b4e03b10130949f22f1b0ee933011d108f7f7547a51c.css?body=1" for ::1 at 2016-11-28 11:35:38 -0800
+
+
+Started GET "/assets/bundle.self-eb2f6f849d327507c8141f530a057ccb75b5f772450b380c4433ed09627bcee6.js?body=1" for ::1 at 2016-11-28 11:35:38 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 11:35:38 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 11:35:38 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 11:35:38 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 11:35:38 -0800
+
+
+Started GET "/api/pokemon" for ::1 at 2016-11-28 11:35:49 -0800
+Processing by Api::PokemonController#index as JSON
+  [1m[35mPokemon Load (0.9ms)[0m  SELECT "pokemons".* FROM "pokemons"
+  Rendered api/pokemon/index.json.jbuilder (9.1ms)
+Completed 200 OK in 1018ms (Views: 12.4ms | ActiveRecord: 0.9ms)

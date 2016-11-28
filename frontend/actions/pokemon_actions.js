@@ -14,7 +14,8 @@ import * as APIUtil from '../util/api_util';
 // Redux Thunk middleware allows you to write action creators that return a function instead 
 //of an action.
 
-export function fetchAllPokemon() {
+export function fetchAllPokemon() { //should call the APIUtil, and then on resolution of the promise, dispatch receiveAllPokemon.
+
 	return (dispatch) => {
 		dispatch(requestAllPokemon());
 		return APIUtil.fetchAllPokemon()
