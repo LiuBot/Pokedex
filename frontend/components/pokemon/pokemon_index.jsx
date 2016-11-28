@@ -1,6 +1,7 @@
 //presentational component, which should render an unordered list of pokemon names next to corresponding images.
 
 import React from 'react';
+import PokemonIndexItem from './pokemon_index_item';
 
 class PokemonIndex extends React.Component{ // class component
 	componentDidMount(){
@@ -15,7 +16,9 @@ class PokemonIndex extends React.Component{ // class component
 				<ol>
 				{
 					pokemon.map(poke =>(
-						<li key={poke.id}><img className="thumb" src={poke.image_url}/>{poke.name}</li>))
+						<PokemonIndexItem
+						key={poke.id}
+						poke={poke} />))
 				}
 				</ol>
 			</div>)
