@@ -6,7 +6,7 @@
 #Remember, Jbuilder allows us to curate our data, retrieving only the attributes we are interested in.
 
 @pokemon.each do |pokemon|
-	json.set! poke.id do #json.set! to explicitly set the key to the pokemon's id 
+	json.set! pokemon.id do #json.set! to explicitly set the key to the pokemon's id 
 		json.extract! pokemon, :id, :name, :image_url 
 	end 
 end
