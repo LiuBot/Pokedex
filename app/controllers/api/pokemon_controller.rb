@@ -4,11 +4,12 @@ class Api::PokemonController < ApplicationController
 	def index
 		sleep 1
 		@pokemon = Pokemon.all
+		# render line is missing because we're using jbuilder
 	end 
 
 	def show
 		sleep 1
-		@pokemon = Pokemon.find(params[:id])
+		@poke = Pokemon.find(params[:id])
 	end 
 
 private 
@@ -17,3 +18,4 @@ private
 	end 
 
 end
+
