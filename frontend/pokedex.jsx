@@ -10,8 +10,8 @@ import Root from './components/root'
 document.addEventListener("DOMContentLoaded", () =>{
 	const root = document.getElementById("root");
 	const store = configureStore();
-	window.store = store;
-	//Just for testing?
+	//Just for testing:
+	// window.store = store;
 	// window.selectAllPokemon = selectAllPokemon;
 	// window.receiveAllPokemon = receiveAllPokemon;
 	// window.fetchAllPokemon = fetchAllPokemon;
