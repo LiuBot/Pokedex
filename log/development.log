@@ -17466,3 +17466,977 @@ Started GET "/assets/pokemon_snaps/051.png" for ::1 at 2016-11-28 12:52:56 -0800
 
 
 Started GET "/assets/pokemon_snaps/048.png" for ::1 at 2016-11-28 12:52:56 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 12:57:50 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.3ms)
+Completed 200 OK in 101ms (Views: 99.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 12:57:50 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 12:57:50 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 12:57:50 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 12:57:50 -0800
+
+
+Started GET "/assets/bundle.self-0ce62b25376bd04f8866be327c0a20af4c97dd8ee7f78b128a51ef5ba80eb321.js?body=1" for ::1 at 2016-11-28 12:57:50 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 12:57:50 -0800
+
+
+Started GET "/assets/application.self-8f9140463e0f9a660b52f680f8b3ca12ec7d4c1b43bd3a0ecb50ed3ef8a9451d.css?body=1" for ::1 at 2016-11-28 12:57:50 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 12:57:50 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 12:57:50 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 12:57:50 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 12:57:54 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 17ms (Views: 16.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 12:57:54 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 12:57:54 -0800
+
+
+Started GET "/assets/application.self-8f9140463e0f9a660b52f680f8b3ca12ec7d4c1b43bd3a0ecb50ed3ef8a9451d.css?body=1" for ::1 at 2016-11-28 12:57:54 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 12:57:54 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 12:57:54 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 12:57:54 -0800
+
+
+Started GET "/assets/bundle.self-0ce62b25376bd04f8866be327c0a20af4c97dd8ee7f78b128a51ef5ba80eb321.js?body=1" for ::1 at 2016-11-28 12:57:54 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 12:57:54 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 12:57:54 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 12:57:54 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 12:58:49 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.4ms)
+Completed 200 OK in 22ms (Views: 21.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 12:58:49 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 12:58:49 -0800
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 12:58:49 -0800
+
+
+Started GET "/assets/bundle.self-0ce62b25376bd04f8866be327c0a20af4c97dd8ee7f78b128a51ef5ba80eb321.js?body=1" for ::1 at 2016-11-28 12:58:49 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 12:58:49 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 12:58:49 -0800
+
+
+Started GET "/assets/application.self-8f9140463e0f9a660b52f680f8b3ca12ec7d4c1b43bd3a0ecb50ed3ef8a9451d.css?body=1" for ::1 at 2016-11-28 12:58:49 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 12:58:49 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 12:58:49 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 12:58:49 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 13:01:30 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.2ms)
+Completed 200 OK in 25ms (Views: 24.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 13:01:30 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 13:01:30 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 13:01:30 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 13:01:30 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 13:01:30 -0800
+
+
+Started GET "/assets/application.self-8f9140463e0f9a660b52f680f8b3ca12ec7d4c1b43bd3a0ecb50ed3ef8a9451d.css?body=1" for ::1 at 2016-11-28 13:01:30 -0800
+
+
+Started GET "/assets/bundle.self-0ce62b25376bd04f8866be327c0a20af4c97dd8ee7f78b128a51ef5ba80eb321.js?body=1" for ::1 at 2016-11-28 13:01:30 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 13:01:30 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 13:01:30 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 13:01:31 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 13:01:33 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.0ms)
+Completed 200 OK in 452ms (Views: 451.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-250249d1e4c379621df54d63bf431dbbc036764b75318cd4da5fb73996c9bc37.css?body=1" for ::1 at 2016-11-28 13:01:33 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 13:01:33 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 13:01:33 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 13:01:33 -0800
+
+
+Started GET "/assets/bundle.self-7efc6c069d498b1358a0dc57d43e342639a1818b72d6d713d8a72fea27b352bf.js?body=1" for ::1 at 2016-11-28 13:01:33 -0800
+
+
+Started GET "/assets/application.self-8f9140463e0f9a660b52f680f8b3ca12ec7d4c1b43bd3a0ecb50ed3ef8a9451d.css?body=1" for ::1 at 2016-11-28 13:01:34 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 13:01:34 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 13:01:34 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 13:01:34 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 13:01:34 -0800
+
+
+Started GET "/api/pokemon" for ::1 at 2016-11-28 13:01:34 -0800
+Processing by Api::PokemonController#index as JSON
+  [1m[36mPokemon Load (1.2ms)[0m  [1mSELECT "pokemons".* FROM "pokemons"[0m
+  Rendered api/pokemon/index.json.jbuilder (22.9ms)
+Completed 200 OK in 1037ms (Views: 29.5ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/assets/pokemon_snaps/124.png" for ::1 at 2016-11-28 13:01:35 -0800
+
+
+Started GET "/assets/pokemon_snaps/062.png" for ::1 at 2016-11-28 13:01:35 -0800
+
+
+Started GET "/assets/pokemon_snaps/100.png" for ::1 at 2016-11-28 13:01:35 -0800
+
+
+Started GET "/assets/pokemon_snaps/148.png" for ::1 at 2016-11-28 13:01:35 -0800
+
+
+Started GET "/assets/pokemon_snaps/142.png" for ::1 at 2016-11-28 13:01:35 -0800
+
+
+Started GET "/assets/pokemon_snaps/129.png" for ::1 at 2016-11-28 13:01:35 -0800
+
+
+Started GET "/assets/pokemon_snaps/010.png" for ::1 at 2016-11-28 13:01:35 -0800
+
+
+Started GET "/assets/pokemon_snaps/145.png" for ::1 at 2016-11-28 13:01:35 -0800
+
+
+Started GET "/assets/pokemon_snaps/086.png" for ::1 at 2016-11-28 13:01:35 -0800
+
+
+Started GET "/assets/pokemon_snaps/007.png" for ::1 at 2016-11-28 13:01:35 -0800
+
+
+Started GET "/assets/pokemon_snaps/087.png" for ::1 at 2016-11-28 13:01:35 -0800
+
+
+Started GET "/assets/pokemon_snaps/073.png" for ::1 at 2016-11-28 13:01:35 -0800
+
+
+Started GET "/assets/pokemon_snaps/133.png" for ::1 at 2016-11-28 13:01:35 -0800
+
+
+Started GET "/assets/pokemon_snaps/003.png" for ::1 at 2016-11-28 13:01:35 -0800
+
+
+Started GET "/assets/pokemon_snaps/098.png" for ::1 at 2016-11-28 13:01:35 -0800
+
+
+Started GET "/assets/pokemon_snaps/074.png" for ::1 at 2016-11-28 13:01:35 -0800
+
+
+Started GET "/assets/pokemon_snaps/112.png" for ::1 at 2016-11-28 13:01:35 -0800
+
+
+Started GET "/assets/pokemon_snaps/089.png" for ::1 at 2016-11-28 13:01:35 -0800
+
+
+Started GET "/assets/pokemon_snaps/008.png" for ::1 at 2016-11-28 13:01:35 -0800
+
+
+Started GET "/assets/pokemon_snaps/028.png" for ::1 at 2016-11-28 13:01:35 -0800
+
+
+Started GET "/assets/pokemon_snaps/041.png" for ::1 at 2016-11-28 13:01:35 -0800
+
+
+Started GET "/assets/pokemon_snaps/123.png" for ::1 at 2016-11-28 13:01:35 -0800
+
+
+Started GET "/assets/pokemon_snaps/065.png" for ::1 at 2016-11-28 13:01:35 -0800
+
+
+Started GET "/assets/pokemon_snaps/092.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/050.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/107.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/013.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/079.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/114.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/149.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/080.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/056.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/083.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/121.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/016.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/077.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/119.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/097.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/024.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/006.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/109.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/069.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/082.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/140.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/053.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/034.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/027.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/126.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/059.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/005.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/071.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/095.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/046.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/051.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/048.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/042.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/009.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/001.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/029.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/026.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/004.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/060.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/131.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/105.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/115.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/108.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/101.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/055.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/130.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/054.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/128.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/110.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/049.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/099.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/104.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/139.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/122.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/106.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/018.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/017.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/147.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/125.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/116.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/137.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/091.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/023.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/038.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/103.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/068.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/096.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/094.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/150.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/022.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/076.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/135.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/002.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/019.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/084.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/146.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/117.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/081.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/031.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/085.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/078.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/111.png" for ::1 at 2016-11-28 13:01:36 -0800
+
+
+Started GET "/assets/pokemon_snaps/138.png" for ::1 at 2016-11-28 13:01:37 -0800
+
+
+Started GET "/assets/pokemon_snaps/143.png" for ::1 at 2016-11-28 13:01:37 -0800
+
+
+Started GET "/assets/pokemon_snaps/066.png" for ::1 at 2016-11-28 13:01:37 -0800
+
+
+Started GET "/assets/pokemon_snaps/021.png" for ::1 at 2016-11-28 13:01:37 -0800
+
+
+Started GET "/assets/pokemon_snaps/151.png" for ::1 at 2016-11-28 13:01:37 -0800
+
+
+Started GET "/assets/pokemon_snaps/020.png" for ::1 at 2016-11-28 13:01:37 -0800
+
+
+Started GET "/assets/pokemon_snaps/113.png" for ::1 at 2016-11-28 13:01:37 -0800
+
+
+Started GET "/assets/pokemon_snaps/141.png" for ::1 at 2016-11-28 13:01:37 -0800
+
+
+Started GET "/assets/pokemon_snaps/052.png" for ::1 at 2016-11-28 13:01:37 -0800
+
+
+Started GET "/assets/pokemon_snaps/072.png" for ::1 at 2016-11-28 13:01:37 -0800
+
+
+Started GET "/assets/pokemon_snaps/032.png" for ::1 at 2016-11-28 13:01:37 -0800
+
+
+Started GET "/assets/pokemon_snaps/136.png" for ::1 at 2016-11-28 13:01:37 -0800
+
+
+Started GET "/assets/pokemon_snaps/057.png" for ::1 at 2016-11-28 13:01:37 -0800
+
+
+Started GET "/assets/pokemon_snaps/144.png" for ::1 at 2016-11-28 13:01:37 -0800
+
+
+Started GET "/assets/pokemon_snaps/118.png" for ::1 at 2016-11-28 13:01:37 -0800
+
+
+Started GET "/assets/pokemon_snaps/127.png" for ::1 at 2016-11-28 13:01:37 -0800
+
+
+Started GET "/assets/pokemon_snaps/088.png" for ::1 at 2016-11-28 13:01:37 -0800
+
+
+Started GET "/assets/pokemon_snaps/047.png" for ::1 at 2016-11-28 13:01:37 -0800
+
+
+Started GET "/assets/pokemon_snaps/012.png" for ::1 at 2016-11-28 13:01:37 -0800
+
+
+Started GET "/" for ::1 at 2016-11-28 13:01:56 -0800
+Processing by StaticPagesController#root as HTML
+  Rendered static_pages/root.html within layouts/application (0.1ms)
+Completed 200 OK in 59ms (Views: 58.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.self-d451fc6ae3d26cb27e8c2246a40d9b84b1cb188eb5dde7782b8dc7fecf4885f3.css?body=1" for ::1 at 2016-11-28 13:01:56 -0800
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for ::1 at 2016-11-28 13:01:56 -0800
+
+
+Started GET "/assets/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 13:01:56 -0800
+
+
+Started GET "/assets/application.self-377610cd7c1509e934744c810e3b4cf672dfbcacac3274e7d039827e2ae0fcc7.js?body=1" for ::1 at 2016-11-28 13:01:56 -0800
+
+
+Started GET "/assets/api/pokemon.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-11-28 13:01:56 -0800
+
+
+Started GET "/assets/bundle.self-7efc6c069d498b1358a0dc57d43e342639a1818b72d6d713d8a72fea27b352bf.js?body=1" for ::1 at 2016-11-28 13:01:56 -0800
+
+
+Started GET "/assets/application.self-8f9140463e0f9a660b52f680f8b3ca12ec7d4c1b43bd3a0ecb50ed3ef8a9451d.css?body=1" for ::1 at 2016-11-28 13:01:56 -0800
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for ::1 at 2016-11-28 13:01:56 -0800
+
+
+Started GET "/assets/pokedex-header.png" for ::1 at 2016-11-28 13:01:56 -0800
+
+
+Started GET "/assets/bundle.js.map" for ::1 at 2016-11-28 13:01:57 -0800
+
+
+Started GET "/api/pokemon" for ::1 at 2016-11-28 13:02:01 -0800
+Processing by Api::PokemonController#index as JSON
+  [1m[35mPokemon Load (1.2ms)[0m  SELECT "pokemons".* FROM "pokemons"
+  Rendered api/pokemon/index.json.jbuilder (8.5ms)
+Completed 200 OK in 1014ms (Views: 11.5ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/assets/pokemon_snaps/124.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/062.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/148.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/129.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/142.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/100.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/010.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/112.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/133.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/003.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/098.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/074.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/089.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/008.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/028.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/041.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/087.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/123.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/092.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/065.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/050.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/107.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/086.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/013.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/079.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/114.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/145.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/149.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/080.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/056.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/083.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/121.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/077.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/119.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/097.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/016.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/007.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/024.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/006.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/109.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/069.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/082.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/073.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/140.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/053.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/034.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/126.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/027.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/059.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/005.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/071.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/095.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/046.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/051.png" for ::1 at 2016-11-28 13:02:02 -0800
+
+
+Started GET "/assets/pokemon_snaps/042.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/048.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/009.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/001.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/029.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/026.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/004.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/060.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/131.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/105.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/115.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/108.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/101.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/055.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/130.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/054.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/128.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/110.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/049.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/099.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/104.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/139.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/122.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/106.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/018.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/017.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/147.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/125.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/116.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/137.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/091.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/023.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/038.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/103.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/068.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/096.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/094.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/150.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/022.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/076.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/135.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/002.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/019.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/084.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/146.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/117.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/081.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/085.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/031.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/078.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/111.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/138.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/143.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/066.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/021.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/020.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/151.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/113.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/141.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/052.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/032.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/072.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/136.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/144.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/057.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/118.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/127.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/088.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/047.png" for ::1 at 2016-11-28 13:02:03 -0800
+
+
+Started GET "/assets/pokemon_snaps/012.png" for ::1 at 2016-11-28 13:02:03 -0800
