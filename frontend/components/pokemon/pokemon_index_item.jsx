@@ -5,7 +5,7 @@ import {Link} from 'react-router';
 const PokemonIndexItem = ({poke, router}) =>{
 
 		return(
-			<li>
+			<li className="index-label">
 				<Link to={`/pokemon/${poke.id}`}>
 					<img className="thumb" src={poke.image_url}/>
 					<span>{poke.name}</span>

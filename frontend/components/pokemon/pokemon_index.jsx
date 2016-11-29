@@ -3,24 +3,27 @@
 import React from 'react';
 import PokemonIndexItem from './pokemon_index_item';
 
+
 class PokemonIndex extends React.Component{ // class component
 	componentDidMount(){
 		this.props.fetchAllPokemon();
 	}
 
 	render(){
-		const {pokemon} = this.props;
+		const {pokemon, children} = this.props;
 
 		return(
 			<div>
-				<ol>
+				<ol className="poke-index">
 				{
 					pokemon.map(poke =>(
 						<PokemonIndexItem
-						key={poke.id}
-						poke={poke} />))
+							key={poke.id}
+							poke={poke} 
+							children={children}/>))
 				}
 				</ol>
+				{children}
 			</div>)
 	}
 
