@@ -15,7 +15,7 @@ class PokemonForm extends React.Component{
 			poke_type: 'bug',
       attack: '',
       defense: '',
-      moves: ['hi','ho']
+      moves: ['','']
 		};
      this.updateMove = this.updateMove.bind(this)
   	 this.createNewPokemon = this.createNewPokemon.bind(this); // no autobinding in ES6 so need to do this
@@ -80,13 +80,13 @@ class PokemonForm extends React.Component{
     <input type='text'
         value={moves[0] || ''}
         placeholder="Move 1"
-        onChange= {this.updateMove} />
+        onChange= {this.updateMove(0)} />
         <br />
 
     <input type='text'
         value={moves[1] || ''}
         placeholder="Move 2"
-        onChange= {this.updateMove} />
+        onChange= {this.updateMove(1)} />
         <br />
 
 
