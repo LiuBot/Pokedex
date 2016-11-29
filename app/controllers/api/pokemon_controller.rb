@@ -9,7 +9,17 @@ class Api::PokemonController < ApplicationController
 
 	def show
 		sleep 1
-		@poke = Pokemon.find(params[:id])
+		@pokemon = Pokemon.find(params[:id])
+	end 
+
+	def create
+		@pokemon = Pokemon.new(pokemon_params)
+
+		if @pokemon.save
+			render :show
+		else
+			render json: @pokemon.errors.full_messages
+		end
 	end 
 
 private 

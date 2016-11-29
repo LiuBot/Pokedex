@@ -2,6 +2,7 @@
 
 import React from 'react';
 import PokemonIndexItem from './pokemon_index_item';
+import PokemonForm from './pokemon_form'
 
 
 class PokemonIndex extends React.Component{ // class component

@@ -8,8 +8,8 @@ import {createStore, applyMiddleware} from 'redux';
 // A thunk is a function that wraps an expression to delay its evaluation.
         
 
-// import thunk from 'redux-thunk';
-import thunk from '../middleware/thunk';
+import thunk from 'redux-thunk';
+// import thunk from '../middleware/thunk';
 import rootReducer from '../reducers/root_reducer';
 
 const configureStore = (state) => (

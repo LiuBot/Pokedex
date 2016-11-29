@@ -1,4 +1,4 @@
- import {RECEIVE_SINGLE_POKEMON} from '../actions/pokemon_actions';
+ import {RECEIVE_SINGLE_POKEMON, RECEIVE_NEW_POKEMON} from '../actions/pokemon_actions';
  import merge from 'lodash/merge';
 
 const _defaultPoke = {
@@ -15,8 +15,9 @@ const pokemonDetailReducer = (state = _defaultPoke, action) => {
  	let dupState = {};
 
  	switch(action.type){
+ 		case RECEIVE_NEW_POKEMON:
  		case RECEIVE_SINGLE_POKEMON:
- 			dupState = merge({}, action.poke);
+ 			dupState = merge({}, action.pokemon);
  			return dupState;
  		default:
  			return state;

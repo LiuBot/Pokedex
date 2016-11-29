@@ -16,10 +16,44 @@
 $black: #161616;
 $grey: #747474;
 
+.pokemon-form{
+	background-image:url(http://cdn.pcwallart.com/images/pixel-landscape-background-wallpaper-3.jpg);
+	background-position: center bottom;
+	padding:60px;
+	width:400px;
+	color:$black;
+	border:20px solid $black;
+	border-radius:30px;
+	float:left;
+}
+
+.pokemon-form input{
+	margin:5px;
+	padding:10px;
+	height:20px;
+	font-size:20px;
+	width:350px;
+	border-radius:5px;
+}
+
 label {
 	font-weight:bold;
 }
 
+
+.create-button{
+	width: 95%;
+	background:red;
+	color:white;
+	font-size:20px;
+	outline:none;
+	border:none;
+}
+
+.active-link{
+	color:white;
+	font-weight:bold;
+}
 .item-info{
 	font-size:18px;
 	color:white;

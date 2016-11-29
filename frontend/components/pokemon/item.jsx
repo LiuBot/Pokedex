@@ -1,6 +1,8 @@
 import React from 'react';
 import {Link} from 'react-router';
 
+// This just contains the link and image
+
 const Item = ({item}) =>{
 	return(
 		//Path: /pokemon/:pokemonId/items/:itemId
