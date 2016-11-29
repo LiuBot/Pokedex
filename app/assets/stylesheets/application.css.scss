@@ -24,8 +24,10 @@ label {
 	font-size:18px;
 	color:white;
 }
-.item-pic{
-	float:left;
+t
+
+.items{
+	background:white;
 }
 
 .active{
@@ -42,6 +44,12 @@ label {
 	float:left;
 	font-size:12px;
 	width:200px;
+}
+
+.item-list{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center; /* lets the tiles be centered */
 }
 .pokemon-detail{
 	width:700px;

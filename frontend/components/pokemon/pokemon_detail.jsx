@@ -28,7 +28,7 @@ class PokemonDetail extends React.Component{
 
 				<section className="pokemon-toys">
 				<h3 className="items-title">Items</h3>
-				<ul className="toy-list">
+				<ul className="item-list">
 					{pokemonDetail.items.map( (item) => 
 						<Item 
 						key={item.name} 
