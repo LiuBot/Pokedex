@@ -27,10 +27,17 @@ $grey: #747474;
 	float:left;
 }
 
-.pokemon-form input{
+.form-title{
+	font-size:32px;
+	text-align:center;
+	font-weight:bold;
+	color:white;
+}
+.pokemon-form input, select{
 	margin:5px;
 	padding:10px;
-	height:20px;
+	height:30px;
+	outline:none;
 	font-size:20px;
 	width:350px;
 	border-radius:5px;
@@ -47,7 +54,12 @@ label {
 	color:white;
 	font-size:20px;
 	outline:none;
-	border:none;
+	border:1px solid white;
+	height:40px;
+}
+
+.create-button:hover{
+	-webkit-filter:brightness(130%);
 }
 
 .active-link{

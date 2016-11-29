@@ -2,8 +2,11 @@ import {connect} from 'react-redux';
 import PokemonForm from './pokemon_form'
 import {createNewPokemon} from '../../actions/pokemon_actions'
 
+const mapStateToProps = ({errors}) =>({
+	errors
+})
 
-const mapDispatchToProps = (dispatch, {pokemon}) => ({
+const mapDispatchToProps = (dispatch) => ({
 	createNewPokemon: (pokemon) => dispatch(createNewPokemon(pokemon))
 })
 
@@ -11,6 +14,6 @@ const mapDispatchToProps = (dispatch, {pokemon}) => ({
 // Pass a function prop called createPokemon that dispatches your CREATE_POKEMON action.
 
 export default connect(
-	null,
+	mapStateToProps,
 	mapDispatchToProps
 	)(PokemonForm)

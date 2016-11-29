@@ -5,6 +5,11 @@
   <%= stylesheet_link_tag    'application', media: 'all' %>
   <%= javascript_include_tag 'application' %>
   <%= csrf_meta_tags %>
+  <!-- Lets you import the pokemon types and make them available at the window level -->
+<script type="text/javascript">
+  window.POKEMON_TYPES = <%= raw(Pokemon::TYPES) %>;
+</script>
+
 </head>
 <body>
 

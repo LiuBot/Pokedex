@@ -6,13 +6,15 @@ import React from 'react';
 import {withRouter} from 'react-router';
 
 class PokemonForm extends React.Component{
+
+
 	constructor(props){ //provide a default internal state to your form
 		super(props);
 
 		this.state = {
 			name:"",
 			image_url: "",
-			poke_type: 'bug',
+			poke_type: POKEMON_TYPES[0],
       attack: '',
       defense: '',
       moves: ['','']
@@ -35,18 +37,38 @@ class PokemonForm extends React.Component{
 
   createNewPokemon(e){
   	e.preventDefault();
-  	 this.props.createNewPokemon(Object.assign({}, this.state));
+  	 this.props.createNewPokemon(Object.assign({}, this.state)).then(newPokemon => {
+      this.props.router.push(`pokemon/${newPokemon.id}`);
+    })
   }
 
+  errors(e){
+    let {errors} = this.props;
+    if (errors){
+      errors.map((error,idx) => {
+        return (
+          <li 
+          className="error"
+          key={idx}>{error}</li>)
+      })
+    } else {
+      return "";
+    }
+  }
 
   render(){
   	let {name, image_url, poke_type, attack, defense, moves} = this.state; // so you don't have to keep calling this.state.title, etc.
 
   	return(
+      <div>
+        <ul>
+          {this.errors()}
+        </ul>
+        
   		<form 
       className="pokemon-form"
       onSubmit ={this.createNewPokemon}>
-
+      <h1 className="form-title">Create a Pokemon!</h1>
   			<input type='text'
   			value={name}
   			placeholder="name"
@@ -59,11 +81,16 @@ class PokemonForm extends React.Component{
         onChange= {this.update('image_url')} />
         <br />
 
-        <input type='select'
+        <select 
         value={poke_type}
-        placeholder="bug"
-        onChange= {this.update('poke_type')} />
-        <br />
+        onChange={this.update('poke_type')}>
+          {
+            POKEMON_TYPES.map((type,i) => 
+                      <option 
+                      value={type} 
+                      key={i}>{type}
+                      </option>)}
+        </select>
 
         <input type='number'
         value={attack}
@@ -93,6 +120,7 @@ class PokemonForm extends React.Component{
   		<button
         className="create-button">Create Pokemon</button>
   		</form>
+      </div>
   		)
   }
  

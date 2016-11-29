@@ -1,6 +1,7 @@
 
 import React from 'react';
 import {Link} from 'react-router';
+import {withRouter} from 'react-router'
 
 const PokemonIndexItem = ({poke, router}) =>{
 
@@ -15,4 +16,4 @@ const PokemonIndexItem = ({poke, router}) =>{
 
 
 
-export default PokemonIndexItem;
+export default withRouter(PokemonIndexItem)

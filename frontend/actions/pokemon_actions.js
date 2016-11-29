@@ -3,6 +3,7 @@ export const REQUEST_ALL_POKEMON = "REQUEST_ALL_POKEMON";
 export const RECEIVE_SINGLE_POKEMON = "RECEIVE_SINGLE_POKEMON";
 export const REQUEST_SINGLE_POKEMON = "REQUEST_SINGLE_POKEMON";
 export const RECEIVE_NEW_POKEMON = "RECEIVE_NEW_POKEMON";
+export const RECEIVE_ERRORS = "RECEIVE_ERRORS";
 
  
 // These return action objects 
@@ -39,10 +40,11 @@ export function fetchSinglePokemon(id) {
 export function createNewPokemon(pokemon) {
 	return (dispatch) => {
 		dispatch(requestSinglePokemon());
-		return APIUtil.createNewPokemon(pokemon).then(pokemon => {
-			dispatch(receiveNewPokemon(pokemon))
-			return pokemon;
-		});
+
+		return APIUtil.createNewPokemon(pokemon)
+		.then(pokemon => {dispatch(receiveNewPokemon(pokemon));return pokemon})
+		// .catch((error) => {dispatch(receiveErrors(error))})
+		// .catch((err) => console.log("rejected:", err));
 	}
 }
 
@@ -70,4 +72,9 @@ export const receiveSinglePokemon = (pokemon) =>({ // MAKE SURE THE SAME NAME IS
 export const receiveNewPokemon = (pokemon) =>({ // MAKE SURE THE SAME NAME IS USED IN THE REDUCER
 	type: RECEIVE_NEW_POKEMON,
 	pokemon
+})
+
+export const receiveErrors = (errors) =>({
+	type: RECEIVE_ERRORS,
+	errors
 })
