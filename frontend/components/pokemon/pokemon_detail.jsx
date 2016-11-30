@@ -14,9 +14,12 @@ class PokemonDetail extends React.Component{
   }
 
 	render(){
-		const {pokemonDetail, children} = this.props;
-			return(
-				<section className="pokemon-detail">
+		const {pokemonDetail, children, loading} = this.props;
+			return loading ? <div className="spinner">
+	  <div className="double-bounce1"></div>
+	  <div className="double-bounce2"></div>
+	</div> : 			
+				<div className="pokemon-detail">
 					<ul>
 						<img src={pokemonDetail.image_url} alt={pokemonDetail.name} />
 						<li><h2>{pokemonDetail.name}</h2></li>
@@ -26,7 +29,7 @@ class PokemonDetail extends React.Component{
 						<li><label>Moves:</label> {pokemonDetail.moves.join(', ')}</li>
 					</ul>
 
-				<section className="pokemon-toys">
+				<div className="pokemon-toys">
 				<h3 className="items-title">Items</h3>
 				<ul className="item-list">
 					{pokemonDetail.items.map( (item) => 
@@ -34,11 +37,11 @@ class PokemonDetail extends React.Component{
 						key={item.name} 
 						item={item}/>)}
 				</ul>
-				</section>
+				</div>
 					{children}
-				</section>
+				</div>
 
-				);
+				;
 	}
 }
 

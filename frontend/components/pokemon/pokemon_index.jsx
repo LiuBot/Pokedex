@@ -11,9 +11,12 @@ class PokemonIndex extends React.Component{ // class component
 	}
 
 	render(){
-		const {pokemon, children} = this.props;
+		const {pokemon, children, loading} = this.props;
 
-		return(
+		return (loading ? <div className="spinner">
+  <div className="double-bounce1"></div>
+  <div className="double-bounce2"></div>
+</div> : 
 			<div>
 				<ol className="poke-index">
 				{
